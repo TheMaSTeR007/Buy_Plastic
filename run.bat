@@ -1,0 +1,10 @@
+start python -m data_scraper 1 5
+start python -m data_scraper 6 10
+start python -m data_scraper 11 15
+start python -m data_scraper 16 20
+start python -m data_scraper 21 25
+start python -m data_scraper 26 29
+start python -m data_scraper 30 33
+start python -m data_scraper 34 37
+start python -m data_scraper 38 41
+start python -m data_scraper 42 45
